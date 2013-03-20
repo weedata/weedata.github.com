@@ -4,7 +4,7 @@
   <title><![CDATA[微数据]]></title>
   <link href="http://weedata.github.com/atom.xml" rel="self"/>
   <link href="http://weedata.github.com/"/>
-  <updated>2013-03-21T03:36:49+08:00</updated>
+  <updated>2013-03-21T03:43:16+08:00</updated>
   <id>http://weedata.github.com/</id>
   <author>
     <name><![CDATA[weedata]]></name>
@@ -350,12 +350,14 @@ comments: true</p>
     <link href="http://weedata.github.com/blog/2013/03/21/all/"/>
     <updated>2013-03-21T00:00:00+08:00</updated>
     <id>http://weedata.github.com/blog/2013/03/21/all</id>
-    <content type="html"><![CDATA[<h2>总结：</h2>
+    <content type="html"><![CDATA[<p><strong>总结：</strong></p>
 
-<p>1.只在ctopress\source_posts目录下放放置 markdown or html文件即可自动生成
-2.想得太多，猜得这多</p>
+<ol>
+<li>只在ctopress\source_posts目录下放放置 markdown or html文件即可自动生成</li>
+<li>想得太多，猜得太多</li>
+<li>那个&#8211;也不能随便写，否则也有错</li>
+</ol>
 
-<hr />
 ]]></content>
   </entry>
   
