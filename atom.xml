@@ -4,7 +4,7 @@
   <title><![CDATA[微数据]]></title>
   <link href="http://weedata.github.com/atom.xml" rel="self"/>
   <link href="http://weedata.github.com/"/>
-  <updated>2013-03-21T00:36:27+08:00</updated>
+  <updated>2013-03-21T01:11:21+08:00</updated>
   <id>http://weedata.github.com/</id>
   <author>
     <name><![CDATA[weedata]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[JustDoItAndThinkmyselfdeeply]]></title>
+    <link href="http://weedata.github.com/blog/2013/03/21/justdoitandthinkmyselfdeeply/"/>
+    <updated>2013-03-21T01:08:00+08:00</updated>
+    <id>http://weedata.github.com/blog/2013/03/21/justdoitandthinkmyselfdeeply</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
