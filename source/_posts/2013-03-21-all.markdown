@@ -1,6 +1,8 @@
-总结：
----
-1.只在ctopress\source\_posts目录下放放置 markdown or html文件即可自动生成
-2.想得太多，猜得这多
 
----
+**总结：**
+
+1. 只在ctopress\source\_posts目录下放放置 markdown or html文件即可自动生成
+2. 想得太多，猜得太多
+3. 那个--也不能随便写，否则也有错
+
+
