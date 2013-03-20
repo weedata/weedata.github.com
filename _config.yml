@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://weedata.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: 微数据
+subtitle: 让微小的数据看到更大的世界.
+author: weedata
 simple_search: http://google.com/search
-description:
+description: 微数据让你看得更多！
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
