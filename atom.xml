@@ -4,7 +4,7 @@
   <title><![CDATA[微数据]]></title>
   <link href="http://weedata.github.com/atom.xml" rel="self"/>
   <link href="http://weedata.github.com/"/>
-  <updated>2013-03-21T03:25:43+08:00</updated>
+  <updated>2013-03-21T03:36:49+08:00</updated>
   <id>http://weedata.github.com/</id>
   <author>
     <name><![CDATA[weedata]]></name>
@@ -320,7 +320,7 @@ comments: true</p>
     <link href="http://weedata.github.com/blog/2013/03/21/just-do-it-and-think-myself-deeply/"/>
     <updated>2013-03-21T00:00:00+08:00</updated>
     <id>http://weedata.github.com/blog/2013/03/21/just-do-it-and-think-myself-deeply</id>
-    <content type="html"><![CDATA[<h1><strong>迈出第一步再深考虑</strong></h1>
+    <content type="html"><![CDATA[<p>﻿#<strong>迈出第一步再深考虑</strong>#</p>
 
 <p>也不知道为什么，有计划的事情不想执行，没有计划的事情一般完成不错。</p>
 
@@ -342,6 +342,20 @@ date: 2013-03-21 02:34
 comments: true</p>
 
 <h2>categories: </h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[All]]></title>
+    <link href="http://weedata.github.com/blog/2013/03/21/all/"/>
+    <updated>2013-03-21T00:00:00+08:00</updated>
+    <id>http://weedata.github.com/blog/2013/03/21/all</id>
+    <content type="html"><![CDATA[<h2>总结：</h2>
+
+<p>1.只在ctopress\source_posts目录下放放置 markdown or html文件即可自动生成
+2.想得太多，猜得这多</p>
+
+<hr />
 ]]></content>
   </entry>
   
